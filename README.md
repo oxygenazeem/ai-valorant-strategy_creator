@@ -1,4 +1,7 @@
 # Valorant Strategy Program Powered by Artificial Intelligence
+
+### Try now at val-strat-ai.streamlit.app !
+
 An interactive web application built with Python and Streamlit that acts as a high-tier Valorant coach. It provides instant, context-specific tactical breakdowns, ability setups, and map macro tips based on your chosen Agent, Map, Side, and optional custom matchups.
 
 By utilizing the g4f library, this tool runs entirely on free, open-source routing endpoints—meaning zero API keys, zero limits, and 100% free hosting.
