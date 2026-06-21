@@ -30,6 +30,6 @@ No hidden variables or keys are required, ensuring instant, seamless builds.
 
 ## Tech Stack
 
-- Frontend UI: Streamlit
-- AI Engine: g4f (Client routing for GPT-4o architecture)
-- Language: Python 3
+* Frontend UI: Streamlit
+* AI Engine: g4f (Client routing for GPT-4o architecture)
+* Language: Python 3
