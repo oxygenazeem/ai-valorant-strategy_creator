@@ -1,6 +1,6 @@
 # Valorant Strategy Program Powered by Artificial Intelligence
 
-### Try now at [val-strat-ai.streamlit.app](val-strat-ai.streamlit.app)!
+### Try now at [val-strat-ai.streamlit.app](https://val-strat-ai.streamlit.app)!
 
 An interactive web application built with Python and Streamlit that acts as a high-tier Valorant coach. It provides instant, context-specific tactical breakdowns, ability setups, and map macro tips based on your chosen Agent, Map, Side, and optional custom matchups.
 
@@ -37,4 +37,4 @@ No hidden variables or keys are required, ensuring instant, seamless builds.
 * AI Engine: g4f (Client routing for GPT-4o architecture)
 * Language: Python 3
 
-#### Try now at [val-strat-ai.streamlit.app](val-strat-ai.streamlit.app)!
+#### Try now at [val-strat-ai.streamlit.app](https://val-strat-ai.streamlit.app)!
